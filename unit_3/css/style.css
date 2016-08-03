@@ -1,12 +1,22 @@
-body {
-	background-image:url("http://sr.photos1.fotosearch.com/bthumb/CSP/CSP685/k6850380.jpg");
+@import url(https://fonts.googleapis.com/css?family=Playball);
 
+}
+body {
+	text-align: center;
+	background: url("https://easybaked.files.wordpress.com/2013/12/pink-champagne-cupcakes.jpg"); 
+	background-size: cover;	
+	color: #fff;	
 }
 h1, p {
 	text-align: center;
 	color: #0000;
-	font-size: 50px;
+	font-size: 40px;
+	font-family: 'Playball', cursive;
 }
+h2 { text-align: center;
+}
+
 ul{
 	text-align: center;
-	font-size:40px;}
+	font-size:30px;
+}
