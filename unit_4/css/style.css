@@ -1,0 +1,30 @@
+@import url(https://fonts.googleapis.com/css?family=Playball);
+@import url(https://fonts.googleapis.com/css?famil=Rancho);
+
+html {
+	background: url("http://kimberlysnyder.com/wp-content/uploads/2013/05/IMG_6155cs.jpg") no-repeat center fixed;
+	background-size: cover;
+}
+body {
+	text-align: center;
+	background: url(); 
+	background-size: ;	
+	color: #fff;	
+}
+h1, p {
+	text-align: center;
+	color: #0000;
+	font-size: 40px;
+	font-family: 'Playball', cursive;
+}
+h2 { text-align: center;
+	font-family: 'Rancho', cursive
+}
+
+ul{
+	list-style: none;
+	text-align: center;
+	font-size:30px;
+	font-family: 'Rancho', cursive;
+
+}
